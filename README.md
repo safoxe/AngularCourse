@@ -1,4 +1,10 @@
-# MyFirstApp
+Tasks:
+1. Create two new Components (manually or with CLI): WarningAlert and SuccessAlert
+2. Output them beneath each other in the AppComponent
+3. Output a warning or success message in the Components
+4. Style the Components appropriately
+
+# Angular Course App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
